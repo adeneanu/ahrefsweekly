@@ -102,7 +102,7 @@ def start_spell(json_data,report_id,brand):
     3. Detect the language of the majority of the keywords and do not include in the list anything that is in another language.
     4. Do not count 2-3 letter before or after domain or domains.
     5. Provide the final list of identified misspelled queries. Output ONLY the list of misspelled queries comma separated. No other commentary.
-    YOU must 100% sure each keyword in your output is a misspell.
+    YOU must 100% sure each keyword in your output is a misspell. DO NOT RETURN ANY OTHER COMMENTARY. IF NOTHING IS MISSPELL JUST RETURN `NOTHING`.
         
         """
     data['prompts'].append({"from":"system","content":system})

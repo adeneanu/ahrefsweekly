@@ -52,9 +52,10 @@ def query_black_table(connection,sql):
         cursor.execute(sql)
         rows = cursor.fetchall()
         black_list=[]
+        
         #print("Total number of entries in 'black' table:", cursor.rowcount)
         for row in rows:
-            black_list.append(row[1].decode('utf-8'))
+            black_list.append(row[1].encode().decode('utf-8'))
         return black_list
     except Error as e:
         print(f"Failed to retrieve data from 'black' table: {e}")
@@ -92,7 +93,7 @@ def get_current_report(connection, report_id):
             cursor.close()
 
 def fetch_ahrefs_data(api_key, target, columns, filters, country='us', date='2023-11-13', date_compared='2023-11-06', 
-                      limit=10, mode='subdomains', order_by='sum_traffic_merged:desc', protocol='both', 
+                      limit=50, mode='subdomains', order_by='sum_traffic_merged:desc', protocol='both', 
                       volume_mode='monthly'):
     base_url = "https://api.ahrefs.com/v3/site-explorer/organic-keywords"
     
@@ -634,7 +635,7 @@ def get_previous_vis(connection,market,brand,id):
         cursor.execute(sel_get_last_id)
         rows = cursor.fetchall()
 
-
+        
         # Decode bytearray to string if necessary
         decoded_row = [col.decode('utf-8') if isinstance(col, bytearray) else col for col in rows[0]]
         last_id=decoded_row[0]
