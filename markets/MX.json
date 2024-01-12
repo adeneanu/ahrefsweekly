@@ -1,0 +1,1 @@
+{   "settings":{     "market":"MX",     "sandbox":1,     "staging":1,     "countryname":"Mexico",     "number":1,     "brands":[       {         "name":"godaddy.com",         "brand":"GDMX",         "dtsurl":"https://datastudio.google.com/reporting/be9c6479-9d7a-4369-bab3-50abccd67e2e?hl=en",         "id":1,         "w":20,         "l":"25"       }     ]   } }

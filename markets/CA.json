@@ -1,0 +1,1 @@
+{   "settings":{     "market":"CA",     "sandbox":1,     "staging":1,     "countryname":"Canada",     "number":1,     "brands":[       {         "name":"godaddy.com",         "brand":"GDCA", "dtsurl":"https://datastudio.google.com/reporting/0e40b379-be4c-4056-8cd9-a62d7a041938?=hl=en",         "id":1,         "w":25,         "l":"30"       }     ]   } }

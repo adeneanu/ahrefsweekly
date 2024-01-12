@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "market": "US",
+        "sandbox": 1,
+        "staging": 1,
+        "countryname": "USA",
+        "number": 1,
+        "brands": [
+            {
+                "name": "godaddy.com",
+                "brand": "GDUS",
+                "dtsurl": "https://datastudio.google.com/reporting/70a2427b-c1fb-4364-93c4-c39558c0ea8d?hl=en",
+                "id": 1,
+                "w": 25,
+                "l": "30"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+{   "settings":{     "market":"IN",     "sandbox":1,     "staging":1,     "countryname":"India",     "number":1,     "brands":[       {         "name":"godaddy.com",         "brand":"GDIN", "dtsurl":"https://datastudio.google.com/reporting/e82eb1a5-004a-44f4-8ad0-c61f5cb02690?hl=en",         "id":1,         "w":20,         "l":"25"       }     ]   } }

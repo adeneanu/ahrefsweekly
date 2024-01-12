@@ -1,0 +1,914 @@
+{
+    "keywords": [
+        {
+            "keyword_merged": "office365",
+            "sum_traffic": 6736,
+            "volume_merged": 111000,
+            "sum_traffic_prev": 3689,
+            "best_position": 6,
+            "best_position_prev": 8,
+            "sum_traffic_merged": 6736,
+            "best_position_url": "https://www.godaddy.com/en-au/business/office-365"
+        },
+        {
+            "keyword_merged": "office 365",
+            "sum_traffic": 4520,
+            "volume_merged": 399000,
+            "sum_traffic_prev": 3616,
+            "best_position": 14,
+            "best_position_prev": 15,
+            "sum_traffic_merged": 4520,
+            "best_position_url": "https://www.godaddy.com/en-au/business/office-365"
+        },
+        {
+            "keyword_merged": "website builder",
+            "sum_traffic": 1650,
+            "volume_merged": 9600,
+            "sum_traffic_prev": 465,
+            "best_position": 2,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 1650,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "domain name",
+            "sum_traffic": 604,
+            "volume_merged": 8700,
+            "sum_traffic_prev": 854,
+            "best_position": 3,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 604,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "make a website",
+            "sum_traffic": 440,
+            "volume_merged": 3300,
+            "sum_traffic_prev": 90,
+            "best_position": 3,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 440,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "website creator",
+            "sum_traffic": 277,
+            "volume_merged": 3700,
+            "sum_traffic_prev": 237,
+            "best_position": 4,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 277,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": ".au",
+            "sum_traffic": 271,
+            "volume_merged": 10000,
+            "sum_traffic_prev": 452,
+            "best_position": 5,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 271,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/au-domain"
+        },
+        {
+            "keyword_merged": "website create",
+            "sum_traffic": 237,
+            "volume_merged": 1600,
+            "sum_traffic_prev": 190,
+            "best_position": 2,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 237,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "website hosting",
+            "sum_traffic": 215,
+            "volume_merged": 1600,
+            "sum_traffic_prev": 390,
+            "best_position": 2,
+            "best_position_prev": 1,
+            "sum_traffic_merged": 215,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/web-hosting"
+        },
+        {
+            "keyword_merged": "website domain",
+            "sum_traffic": 213,
+            "volume_merged": 1000,
+            "sum_traffic_prev": 169,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 213,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "cheap domain",
+            "sum_traffic": 213,
+            "volume_merged": 600,
+            "sum_traffic_prev": 82,
+            "best_position": 2,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 213,
+            "best_position_url": "https://www.godaddy.com/en-au/domains/cheap-domain-names"
+        },
+        {
+            "keyword_merged": "domain name registration",
+            "sum_traffic": 164,
+            "volume_merged": 2800,
+            "sum_traffic_prev": 230,
+            "best_position": 7,
+            "best_position_prev": 6,
+            "sum_traffic_merged": 164,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/au-domain"
+        },
+        {
+            "keyword_merged": "web hosting",
+            "sum_traffic": 149,
+            "volume_merged": 1700,
+            "sum_traffic_prev": 111,
+            "best_position": 4,
+            "best_position_prev": 6,
+            "sum_traffic_merged": 149,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/web-hosting"
+        },
+        {
+            "keyword_merged": "website creater",
+            "sum_traffic": 148,
+            "volume_merged": 2000,
+            "sum_traffic_prev": 231,
+            "best_position": 5,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 148,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "domain name check",
+            "sum_traffic": 146,
+            "volume_merged": 1500,
+            "sum_traffic_prev": 182,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 146,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "domain lookup",
+            "sum_traffic": 145,
+            "volume_merged": 3900,
+            "sum_traffic_prev": 36,
+            "best_position": 3,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 145,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "web hosting australia",
+            "sum_traffic": 134,
+            "volume_merged": 1300,
+            "sum_traffic_prev": 59,
+            "best_position": 6,
+            "best_position_prev": 8,
+            "sum_traffic_merged": 134,
+            "best_position_url": "https://www.godaddy.com/en-au"
+        },
+        {
+            "keyword_merged": "website",
+            "sum_traffic": 123,
+            "volume_merged": 12000,
+            "sum_traffic_prev": 0,
+            "best_position": 10,
+            "best_position_prev": 49,
+            "sum_traffic_merged": 123,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "domain search real estate",
+            "sum_traffic": 121,
+            "volume_merged": 1100,
+            "sum_traffic_prev": 108,
+            "best_position": 5,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 121,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/realestate-domain"
+        },
+        {
+            "keyword_merged": "when is tax return 2023",
+            "sum_traffic": 119,
+            "volume_merged": 12000,
+            "sum_traffic_prev": 185,
+            "best_position": 14,
+            "best_position_prev": 12,
+            "sum_traffic_merged": 119,
+            "best_position_url": "https://au.godaddy.com/blog/the-2022-australian-tax-return-deadlines-you-need-to-know/"
+        },
+        {
+            "keyword_merged": "vps",
+            "sum_traffic": 107,
+            "volume_merged": 3900,
+            "sum_traffic_prev": 71,
+            "best_position": 5,
+            "best_position_prev": 6,
+            "sum_traffic_merged": 107,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/vps-hosting"
+        },
+        {
+            "keyword_merged": "cheap hosting",
+            "sum_traffic": 104,
+            "volume_merged": 200,
+            "sum_traffic_prev": 19,
+            "best_position": 1,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 104,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/cheap-web-hosting"
+        },
+        {
+            "keyword_merged": "m365 log in",
+            "sum_traffic": 86,
+            "volume_merged": 1400,
+            "sum_traffic_prev": 107,
+            "best_position": 6,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 86,
+            "best_position_url": "https://au.godaddy.com/help/sign-in-to-my-microsoft-365-account-24539"
+        },
+        {
+            "keyword_merged": "domain register",
+            "sum_traffic": 85,
+            "volume_merged": 1000,
+            "sum_traffic_prev": 42,
+            "best_position": 3,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 85,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "whois domain",
+            "sum_traffic": 81,
+            "volume_merged": 2800,
+            "sum_traffic_prev": 28,
+            "best_position": 4,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 81,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "cheap domain names",
+            "sum_traffic": 81,
+            "volume_merged": 700,
+            "sum_traffic_prev": 101,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 81,
+            "best_position_url": "https://www.godaddy.com/en-au/domains/cheap-domain-names"
+        },
+        {
+            "keyword_merged": "email hosting",
+            "sum_traffic": 79,
+            "volume_merged": 900,
+            "sum_traffic_prev": 20,
+            "best_position": 4,
+            "best_position_prev": 7,
+            "sum_traffic_merged": 79,
+            "best_position_url": "https://www.godaddy.com/en-au/email/professional-business-email"
+        },
+        {
+            "keyword_merged": "register domain",
+            "sum_traffic": 75,
+            "volume_merged": 1200,
+            "sum_traffic_prev": 60,
+            "best_position": 5,
+            "best_position_prev": 6,
+            "sum_traffic_merged": 75,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/au-domain"
+        },
+        {
+            "keyword_merged": "domain registration",
+            "sum_traffic": 74,
+            "volume_merged": 3200,
+            "sum_traffic_prev": 49,
+            "best_position": 4,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 74,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "microsoft email",
+            "sum_traffic": 71,
+            "volume_merged": 5100,
+            "sum_traffic_prev": 36,
+            "best_position": 13,
+            "best_position_prev": 16,
+            "sum_traffic_merged": 71,
+            "best_position_url": "https://www.godaddy.com/help/compare-microsoft-365-email-plans-9014"
+        },
+        {
+            "keyword_merged": "where to buy domain",
+            "sum_traffic": 71,
+            "volume_merged": 200,
+            "sum_traffic_prev": 23,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 71,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "domains for sale",
+            "sum_traffic": 63,
+            "volume_merged": 1100,
+            "sum_traffic_prev": 119,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 63,
+            "best_position_url": "https://www.godaddy.com/en-au/auctions/domain-auctions"
+        },
+        {
+            "keyword_merged": "server hosting",
+            "sum_traffic": 62,
+            "volume_merged": 500,
+            "sum_traffic_prev": 167,
+            "best_position": 2,
+            "best_position_prev": 1,
+            "sum_traffic_merged": 62,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/dedicated-server"
+        },
+        {
+            "keyword_merged": "office 365 email",
+            "sum_traffic": 60,
+            "volume_merged": 900,
+            "sum_traffic_prev": 94,
+            "best_position": 6,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 60,
+            "best_position_url": "https://au.godaddy.com/help/set-up-microsoft-365-email-on-my-phone-and-computer-31956"
+        },
+        {
+            "keyword_merged": "whois domain owner",
+            "sum_traffic": 59,
+            "volume_merged": 500,
+            "sum_traffic_prev": 182,
+            "best_position": 3,
+            "best_position_prev": 1,
+            "sum_traffic_merged": 59,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "create free website",
+            "sum_traffic": 53,
+            "volume_merged": 700,
+            "sum_traffic_prev": 34,
+            "best_position": 4,
+            "best_position_prev": 6,
+            "sum_traffic_merged": 53,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "website maker free",
+            "sum_traffic": 50,
+            "volume_merged": 800,
+            "sum_traffic_prev": 45,
+            "best_position": 5,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 50,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "au domain registration",
+            "sum_traffic": 49,
+            "volume_merged": 400,
+            "sum_traffic_prev": 31,
+            "best_position": 3,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 49,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/au-domain"
+        },
+        {
+            "keyword_merged": "small business restructure rollover",
+            "sum_traffic": 47,
+            "volume_merged": 300,
+            "sum_traffic_prev": 30,
+            "best_position": 2,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 47,
+            "best_position_url": "https://au.godaddy.com/blog/who-can-claim-the-small-business-restructure-rollover/"
+        },
+        {
+            "keyword_merged": "domain owner lookup",
+            "sum_traffic": 47,
+            "volume_merged": 300,
+            "sum_traffic_prev": 54,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 47,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "free domains",
+            "sum_traffic": 46,
+            "volume_merged": 700,
+            "sum_traffic_prev": 72,
+            "best_position": 7,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 46,
+            "best_position_url": "https://www.godaddy.com/en-au/domains/free-domain"
+        },
+        {
+            "keyword_merged": "klarna australia",
+            "sum_traffic": 45,
+            "volume_merged": 2600,
+            "sum_traffic_prev": 3,
+            "best_position": 12,
+            "best_position_prev": 24,
+            "sum_traffic_merged": 45,
+            "best_position_url": "https://au.godaddy.com/help/what-is-klarna-41021"
+        },
+        {
+            "keyword_merged": "domain name checker",
+            "sum_traffic": 43,
+            "volume_merged": 700,
+            "sum_traffic_prev": 54,
+            "best_position": 4,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 43,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "365 email",
+            "sum_traffic": 42,
+            "volume_merged": 1100,
+            "sum_traffic_prev": 0,
+            "best_position": 3,
+            "best_position_prev": 8,
+            "sum_traffic_merged": 42,
+            "best_position_url": "https://au.godaddy.com/help/set-up-microsoft-365-email-on-my-phone-and-computer-31956"
+        },
+        {
+            "keyword_merged": "free logo maker",
+            "sum_traffic": 41,
+            "volume_merged": 9500,
+            "sum_traffic_prev": 51,
+            "best_position": 19,
+            "best_position_prev": 18,
+            "sum_traffic_merged": 41,
+            "best_position_url": "https://www.godaddy.com/en-au/logo-maker"
+        },
+        {
+            "keyword_merged": "domain name finder",
+            "sum_traffic": 40,
+            "volume_merged": 250,
+            "sum_traffic_prev": 29,
+            "best_position": 2,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 40,
+            "best_position_url": "https://www.godaddy.com/en-au/domains/domain-name-generator"
+        },
+        {
+            "keyword_merged": "domain names search",
+            "sum_traffic": 40,
+            "volume_merged": 500,
+            "sum_traffic_prev": 50,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 40,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "domain names for sale",
+            "sum_traffic": 39,
+            "volume_merged": 350,
+            "sum_traffic_prev": 32,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 39,
+            "best_position_url": "https://www.godaddy.com/en-au/auctions/domain-auctions"
+        },
+        {
+            "keyword_merged": "microsoft admin centre",
+            "sum_traffic": 39,
+            "volume_merged": 800,
+            "sum_traffic_prev": 20,
+            "best_position": 7,
+            "best_position_prev": 10,
+            "sum_traffic_merged": 39,
+            "best_position_url": "https://au.godaddy.com/help/access-advanced-admin-centers-32132"
+        },
+        {
+            "keyword_merged": "02 8042 8921",
+            "sum_traffic": 39,
+            "volume_merged": 500,
+            "sum_traffic_prev": 49,
+            "best_position": 4,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 39,
+            "best_position_url": "https://au.godaddy.com/blog/side-hustle-au/"
+        },
+        {
+            "keyword_merged": ".io domain",
+            "sum_traffic": 39,
+            "volume_merged": 700,
+            "sum_traffic_prev": 69,
+            "best_position": 4,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 39,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/io-domain"
+        },
+        {
+            "keyword_merged": "dedicated servers",
+            "sum_traffic": 38,
+            "volume_merged": 300,
+            "sum_traffic_prev": 47,
+            "best_position": 4,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 38,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/dedicated-server"
+        },
+        {
+            "keyword_merged": "gg",
+            "sum_traffic": 37,
+            "volume_merged": 24000,
+            "sum_traffic_prev": 29,
+            "best_position": 16,
+            "best_position_prev": 17,
+            "sum_traffic_merged": 37,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/gg-domain"
+        },
+        {
+            "keyword_merged": "microsoft teams for mac",
+            "sum_traffic": 37,
+            "volume_merged": 800,
+            "sum_traffic_prev": 29,
+            "best_position": 7,
+            "best_position_prev": 8,
+            "sum_traffic_merged": 37,
+            "best_position_url": "https://au.godaddy.com/help/download-and-install-microsoft-teams-on-my-mac-16527"
+        },
+        {
+            "keyword_merged": "website search",
+            "sum_traffic": 36,
+            "volume_merged": 200,
+            "sum_traffic_prev": 31,
+            "best_position": 2,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 36,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "website value",
+            "sum_traffic": 36,
+            "volume_merged": 90,
+            "sum_traffic_prev": 3,
+            "best_position": 2,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 36,
+            "best_position_url": "https://au.godaddy.com/domain-value-appraisal"
+        },
+        {
+            "keyword_merged": "logo maker",
+            "sum_traffic": 35,
+            "volume_merged": 38000,
+            "sum_traffic_prev": 25,
+            "best_position": 18,
+            "best_position_prev": 19,
+            "sum_traffic_merged": 35,
+            "best_position_url": "https://www.godaddy.com/en-au/logo-maker"
+        },
+        {
+            "keyword_merged": "buying a domain name",
+            "sum_traffic": 34,
+            "volume_merged": 90,
+            "sum_traffic_prev": 11,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 34,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "domain purchase australia",
+            "sum_traffic": 33,
+            "volume_merged": 100,
+            "sum_traffic_prev": 9,
+            "best_position": 1,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 33,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/au-domain"
+        },
+        {
+            "keyword_merged": "websites",
+            "sum_traffic": 32,
+            "volume_merged": 2100,
+            "sum_traffic_prev": 64,
+            "best_position": 9,
+            "best_position_prev": 8,
+            "sum_traffic_merged": 32,
+            "best_position_url": "https://www.godaddy.com/en-au/websites"
+        },
+        {
+            "keyword_merged": "check domain registration",
+            "sum_traffic": 31,
+            "volume_merged": 250,
+            "sum_traffic_prev": 39,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 31,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "whois search",
+            "sum_traffic": 30,
+            "volume_merged": 400,
+            "sum_traffic_prev": 49,
+            "best_position": 5,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 30,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "seo services",
+            "sum_traffic": 30,
+            "volume_merged": 2100,
+            "sum_traffic_prev": 0,
+            "best_position": 12,
+            "best_position_prev": 40,
+            "sum_traffic_merged": 30,
+            "best_position_url": "https://www.godaddy.com/en-au/online-marketing/seo-services"
+        },
+        {
+            "keyword_merged": "free website builder",
+            "sum_traffic": 28,
+            "volume_merged": 4400,
+            "sum_traffic_prev": 69,
+            "best_position": 8,
+            "best_position_prev": 7,
+            "sum_traffic_merged": 28,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "mail office 365",
+            "sum_traffic": 28,
+            "volume_merged": 400,
+            "sum_traffic_prev": 44,
+            "best_position": 5,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 28,
+            "best_position_url": "https://au.godaddy.com/help/add-my-microsoft-365-email-to-mail-on-windows-32426"
+        },
+        {
+            "keyword_merged": "dedicated server hosting",
+            "sum_traffic": 28,
+            "volume_merged": 150,
+            "sum_traffic_prev": 40,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 28,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/dedicated-server"
+        },
+        {
+            "keyword_merged": "microsoft 365 admin center",
+            "sum_traffic": 28,
+            "volume_merged": 1100,
+            "sum_traffic_prev": 7,
+            "best_position": 10,
+            "best_position_prev": 16,
+            "sum_traffic_merged": 28,
+            "best_position_url": "https://au.godaddy.com/help/access-advanced-admin-centers-32132"
+        },
+        {
+            "keyword_merged": "website not secure",
+            "sum_traffic": 27,
+            "volume_merged": 80,
+            "sum_traffic_prev": 9,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 27,
+            "best_position_url": "https://au.godaddy.com/blog/why-my-website-displaying-a-not-secure-warning-2/"
+        },
+        {
+            "keyword_merged": "seo service",
+            "sum_traffic": 27,
+            "volume_merged": 1000,
+            "sum_traffic_prev": 19,
+            "best_position": 8,
+            "best_position_prev": 9,
+            "sum_traffic_merged": 27,
+            "best_position_url": "https://www.godaddy.com/en-au/online-marketing/seo-services"
+        },
+        {
+            "keyword_merged": "who is domain tools",
+            "sum_traffic": 26,
+            "volume_merged": 500,
+            "sum_traffic_prev": 21,
+            "best_position": 7,
+            "best_position_prev": 8,
+            "sum_traffic_merged": 26,
+            "best_position_url": "https://www.godaddy.com/en-au/whois"
+        },
+        {
+            "keyword_merged": "business email address",
+            "sum_traffic": 26,
+            "volume_merged": 600,
+            "sum_traffic_prev": 15,
+            "best_position": 6,
+            "best_position_prev": 7,
+            "sum_traffic_merged": 26,
+            "best_position_url": "https://www.godaddy.com/en-au/email/professional-business-email"
+        },
+        {
+            "keyword_merged": "business email domain",
+            "sum_traffic": 25,
+            "volume_merged": 70,
+            "sum_traffic_prev": 8,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 25,
+            "best_position_url": "https://www.godaddy.com/en-au/email/professional-business-email"
+        },
+        {
+            "keyword_merged": "create a free website",
+            "sum_traffic": 25,
+            "volume_merged": 500,
+            "sum_traffic_prev": 31,
+            "best_position": 5,
+            "best_position_prev": 4,
+            "sum_traffic_merged": 25,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "buy ssl",
+            "sum_traffic": 24,
+            "volume_merged": 50,
+            "sum_traffic_prev": 6,
+            "best_position": 1,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 24,
+            "best_position_url": "https://www.godaddy.com/en-au/web-security/ssl-certificate"
+        },
+        {
+            "keyword_merged": "domain with email",
+            "sum_traffic": 24,
+            "volume_merged": 50,
+            "sum_traffic_prev": 6,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 24,
+            "best_position_url": "https://www.godaddy.com/en-au/email/professional-business-email"
+        },
+        {
+            "keyword_merged": "windows vps",
+            "sum_traffic": 23,
+            "volume_merged": 150,
+            "sum_traffic_prev": 12,
+            "best_position": 4,
+            "best_position_prev": 7,
+            "sum_traffic_merged": 23,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/vps-hosting"
+        },
+        {
+            "keyword_merged": "domain email address",
+            "sum_traffic": 23,
+            "volume_merged": 200,
+            "sum_traffic_prev": 26,
+            "best_position": 3,
+            "best_position_prev": 5,
+            "sum_traffic_merged": 23,
+            "best_position_url": "https://www.godaddy.com/en-au/email/professional-business-email"
+        },
+        {
+            "keyword_merged": "domain names in australia",
+            "sum_traffic": 22,
+            "volume_merged": 250,
+            "sum_traffic_prev": 86,
+            "best_position": 4,
+            "best_position_prev": 1,
+            "sum_traffic_merged": 22,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/au-domain"
+        },
+        {
+            "keyword_merged": "easy website builder",
+            "sum_traffic": 22,
+            "volume_merged": 200,
+            "sum_traffic_prev": 25,
+            "best_position": 2,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 22,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "domain name suggestions",
+            "sum_traffic": 22,
+            "volume_merged": 100,
+            "sum_traffic_prev": 28,
+            "best_position": 3,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 22,
+            "best_position_url": "https://www.godaddy.com/en-au/domains/domain-name-generator"
+        },
+        {
+            "keyword_merged": "domains names",
+            "sum_traffic": 22,
+            "volume_merged": 60,
+            "sum_traffic_prev": 9,
+            "best_position": 1,
+            "best_position_prev": 2,
+            "sum_traffic_merged": 22,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": ".kr",
+            "sum_traffic": 22,
+            "volume_merged": 1400,
+            "sum_traffic_prev": 17,
+            "best_position": 8,
+            "best_position_prev": 9,
+            "sum_traffic_merged": 22,
+            "best_position_url": "https://www.godaddy.com/en-au/tlds/kr-domain"
+        },
+        {
+            "keyword_merged": "ecommerce business",
+            "sum_traffic": 21,
+            "volume_merged": 1800,
+            "sum_traffic_prev": 20,
+            "best_position": 10,
+            "best_position_prev": 11,
+            "sum_traffic_merged": 21,
+            "best_position_url": "https://au.godaddy.com/blog/how-to-set-up-an-ecommerce-business-in-australia/"
+        },
+        {
+            "keyword_merged": "dedicated server",
+            "sum_traffic": 21,
+            "volume_merged": 450,
+            "sum_traffic_prev": 42,
+            "best_position": 5,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 21,
+            "best_position_url": "https://www.godaddy.com/en-au/hosting/dedicated-server"
+        },
+        {
+            "keyword_merged": "website name search",
+            "sum_traffic": 21,
+            "volume_merged": 150,
+            "sum_traffic_prev": 51,
+            "best_position": 2,
+            "best_position_prev": 1,
+            "sum_traffic_merged": 21,
+            "best_position_url": "https://www.godaddy.com/en-au/domains"
+        },
+        {
+            "keyword_merged": "office 365 mail",
+            "sum_traffic": 21,
+            "volume_merged": 1200,
+            "sum_traffic_prev": 63,
+            "best_position": 12,
+            "best_position_prev": 7,
+            "sum_traffic_merged": 21,
+            "best_position_url": "https://au.godaddy.com/help/add-my-microsoft-365-email-to-mail-on-windows-32426"
+        },
+        {
+            "keyword_merged": "microsoft admin",
+            "sum_traffic": 21,
+            "volume_merged": 1400,
+            "sum_traffic_prev": 26,
+            "best_position": 12,
+            "best_position_prev": 11,
+            "sum_traffic_merged": 21,
+            "best_position_url": "https://au.godaddy.com/help/access-advanced-admin-centers-32132"
+        },
+        {
+            "keyword_merged": "gcash",
+            "sum_traffic": 21,
+            "volume_merged": 1900,
+            "sum_traffic_prev": 16,
+            "best_position": 12,
+            "best_position_prev": 13,
+            "sum_traffic_merged": 21,
+            "best_position_url": "https://au.godaddy.com/help/what-is-gcash-41380"
+        },
+        {
+            "keyword_merged": "website construction",
+            "sum_traffic": 20,
+            "volume_merged": 60,
+            "sum_traffic_prev": 7,
+            "best_position": 1,
+            "best_position_prev": 3,
+            "sum_traffic_merged": 20,
+            "best_position_url": "https://www.godaddy.com/en-au/websites/website-builder"
+        },
+        {
+            "keyword_merged": "website template",
+            "sum_traffic": 20,
+            "volume_merged": 600,
+            "sum_traffic_prev": 14,
+            "best_position": 8,
+            "best_position_prev": 9,
+            "sum_traffic_merged": 20,
+            "best_position_url": "https://www.godaddy.com/en-au/website-templates"
+        },
+        {
+            "keyword_merged": "check real estate license",
+            "sum_traffic": 20,
+            "volume_merged": 500,
+            "sum_traffic_prev": 16,
+            "best_position": 8,
+            "best_position_prev": 9,
+            "sum_traffic_merged": 20,
+            "best_position_url": "https://au.godaddy.com/blog/how-to-get-a-real-estate-license-anywhere-in-australia/"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{   "settings":{     "market":"AU",     "sandbox":1,     "staging":1,     "countryname":"Australia",     "number":1,     "brands":[       {         "name":"godaddy.com",         "brand":"GDAU",         "dtsurl":"https://datastudio.google.com/reporting/eaebce74-eada-4a4d-9e1e-8bc8bc1f4d33?hl=en",         "id":1,         "w":25,         "l":"30"       }     ]   } }

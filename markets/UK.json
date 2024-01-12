@@ -1,0 +1,27 @@
+{
+    "settings":{
+       "market":"GB",
+       "sandbox":1,
+       "staging":1,
+       "countryname":"United Kingdom",
+       "number":2,
+       "brands":[
+          {
+             "name":"godaddy.com",
+             "brand":"GDUK",
+             "dtsurl":"https://datastudio.google.com/reporting/f2df3c81-538c-47cc-9b5d-968263c905f5?hl=en",
+             "id":1,
+             "w":25,
+             "l":"30"
+          },
+          {
+             "name":"123-reg.co.uk",
+             "brand":"123REG",
+             "dtsurl":"https://datastudio.google.com/reporting/44dd3127-581f-47df-8de9-b28eac325f25?hl=en",
+             "id":2,
+             "w":25,
+             "l":"30"
+          }
+       ]
+    }
+ }
